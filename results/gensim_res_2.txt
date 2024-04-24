@@ -1,0 +1,10 @@
+topic_numbers: [2, 16] (step 2)
+chunksize: [100, 200]
+passes: [5, 10, 20]
+run time: 14m:44s
+
+Num Topics: 12, Chucksize: 200, Passes: 5, Coherence Score: 0.5404271700143645
+Num Topics: 12, Chucksize: 200, Passes: 20, Coherence Score: 0.5380960508582104
+Num Topics: 14, Chucksize: 200, Passes: 10, Coherence Score: 0.5341124664987279
+Num Topics: 12, Chucksize: 200, Passes: 10, Coherence Score: 0.5322717434467844
+Num Topics: 14, Chucksize: 200, Passes: 20, Coherence Score: 0.5321588549299386

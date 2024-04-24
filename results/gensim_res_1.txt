@@ -1,7 +1,7 @@
 topic_numbers: [2, 30] (step 2)
 chunksize: [20, 40, 60, 80, 100]
 passes: [10, 20, 40, 80]
-run time: 6:24:55
+run time: 06h:24m:55s
 
 Num Topics: 14, Chucksize: 100, Passes: 80, Coherence Score: 0.49364402841346106
 Num Topics: 12, Chucksize: 100, Passes: 80, Coherence Score: 0.4888701290228996

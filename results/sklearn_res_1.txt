@@ -1,0 +1,30 @@
+topic_numbers: [2, 16] (step 2)
+learning_decay: [0.5, 0.7, 0.9]
+batch_size: [100, 200]
+run time: 11m:09s
+
+Model Rank: 1
+Model's Params: {'batch_size': 100, 'learning_decay': 0.5, 'n_components': 2}
+Model's Log Likelihood Score: -215686.93851937214
+Model's Perplexity Score: 865.0991630931732
+
+Model Rank: 2
+Model's Params: {'batch_size': 100, 'learning_decay': 0.5, 'n_components': 4}
+Model's Log Likelihood Score: -222164.97607662837
+Model's Perplexity Score: 865.0991630931732
+
+Model Rank: 3
+Model's Params: {'batch_size': 100, 'learning_decay': 0.5, 'n_components': 6}
+Model's Log Likelihood Score: -228551.10209977944
+Model's Perplexity Score: 865.0991630931732
+
+Model Rank: 4
+Model's Params: {'batch_size': 100, 'learning_decay': 0.5, 'n_components': 8}
+Model's Log Likelihood Score: -234344.3129196315
+Model's Perplexity Score: 865.0991630931732
+
+Model Rank: 5
+Model's Params: {'batch_size': 100, 'learning_decay': 0.5, 'n_components': 10}
+Model's Log Likelihood Score: -240262.0742506627
+Model's Perplexity Score: 865.0991630931732
+
